@@ -2340,10 +2340,9 @@ __metadata:
     react-native-svg: "npm:15.11.2"
     react-native-vector-icons: "npm:^10.3.0"
     react-native-worklets: "npm:^0.4.1"
-    react-navigation: "npm:^5.0.0"
     typescript: "npm:~5.8.3"
     uuid: "npm:^11.1.0"
-    victory-native: "npm:^41.17.4"
+    victory-native: "npm:^41.18.0"
     zustand: "npm:^5.0.7"
   languageName: unknown
   linkType: soft
@@ -6159,13 +6158,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-navigation@npm:^5.0.0":
-  version: 5.0.0
-  resolution: "react-navigation@npm:5.0.0"
-  checksum: 10c0/dd385a39f31d033de138e1012269c80ab65b0db03a2f5958347908a479f667090751047d123f2fced911088fb28bb19dfcda485c10cd892e85f45e6f15c0fc91
-  languageName: node
-  linkType: hard
-
 "react-reconciler@npm:0.31.0":
   version: 0.31.0
   resolution: "react-reconciler@npm:0.31.0"
@@ -7142,9 +7134,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"victory-native@npm:^41.17.4":
-  version: 41.17.4
-  resolution: "victory-native@npm:41.17.4"
+"victory-native@npm:^41.18.0":
+  version: 41.18.0
+  resolution: "victory-native@npm:41.18.0"
   dependencies:
     d3-scale: "npm:^4.0.2"
     d3-shape: "npm:^3.2.0"
@@ -7157,7 +7149,7 @@ __metadata:
     react-native: "*"
     react-native-gesture-handler: ">=2.0.0"
     react-native-reanimated: ">=3.0.0"
-  checksum: 10c0/7f6c5209e6591566708bc329948df78e9c4bff1d7ae86921bd38d2a92ecd8392944105ed57b746c21dde194b6975ed4867f21459a7447044a9f9102d86cd09d0
+  checksum: 10c0/91ce2a87c915f7650386ada631e01a93e9aa58cec846f76c1b16cc3ed383856718213a1ed5197934243cf3bd13d5b27fc3e16eed1acd4d0670bef99e3ba995ae
   languageName: node
   linkType: hard
 
