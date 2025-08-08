@@ -8,7 +8,7 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "build": "eas build --platform android --profile preview"
+    "build": "eas build -p android --profile preview"
   },
   "dependencies": {
     "@react-native-community/datetimepicker": "^8.4.3",

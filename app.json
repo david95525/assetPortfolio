@@ -1,35 +1,12 @@
 {
   "expo": {
-    "name": "assetPortfolio",
-    "slug": "assetPortfolio",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "newArchEnabled": true,
-    "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "edgeToEdgeEnabled": true,
-      "package": "com.david95525.assetPortfolio"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
     "extra": {
       "eas": {
-        "projectId": "94a2bef3-e8c3-4417-88da-1b404c86780f"
+        "projectId": "1ae17b41-db2e-422e-983d-df21d4801c1e"
       }
+    },
+    "android": {
+      "package": "com.david95525.assetportfolio"
     }
   }
 }
