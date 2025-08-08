@@ -9,6 +9,8 @@
       "distribution": "internal"
     },
     "preview": {
+      "node": "16.17.4",
+      "npm": true,
       "distribution": "internal"
     },
     "production": {
